@@ -1,0 +1,33 @@
+_repo: English-Poems-Volume-01-of-2_66039
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pessoa, Fernando
+    aliases:
+    - Reis, Ricardo
+    - Pessoa, Fernando António Nogueira
+    - Pacheco, C.
+    - Seabra Pessôa, Fernando António Nogueira de
+    - Nogueira Pessoa, Fernando Antonio
+    - Pessoa, Fernando Antonio Nogueira
+    birthdate: 1888
+    deathdate: 1935
+    gutenberg_agent_id: '9005'
+    url: http://www.gutenberg.org/2009/agents/9005
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Fernando_Pessoa
+    - http://www.gutenberg.org/ebooks/author/26230
+    - http://pt.wikipedia.org/wiki/Fernando_Pessoa
+description: ''
+gutenberg_issued: '2021-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '66039'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: English Poems, Volume 01 (of 2)
+url: http://www.gutenberg.org/ebooks/66039
